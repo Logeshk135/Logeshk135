@@ -73,7 +73,10 @@ A clean static pizza ordering UI built using **HTML & CSS**.
 ✔ Menu, Items, About, Services, Contact  
 ✔ Well-structured layout
 
-![Pizza Project](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif) <!-- example animated GIF -->
+<p align="left">
+  <img src="/pizza.png" width="80%" />
+</p>
+
 
 ---
 
@@ -84,7 +87,10 @@ Full-stack men’s fashion store built with **MongoDB, Express, React, Node**
 ✔ Product & Order Management  
 ✔ Modern UI with Tailwind  
 
-![Ecommerce Project](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif) <!-- example animated GIF -->
+<p align="left">
+  <img src="/shop.png" width="80%"  />
+</p>
+
 
 ---
 
