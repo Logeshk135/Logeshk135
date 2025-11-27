@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="(https://static.vecteezy.com/system/resources/thumbnails/011/095/357/original/boy-cartoon-character-using-laptop-computer-new-idea-bulb-icon-4k-animation-video.jpg)" width="50%" />
+  <img src="imges.jpg"width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#4fb0f2;">LOGESH K</span></h1>
