@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Logesh k
 
-<!--
-**Logeshk135/Logeshk135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  A passionate and motivated MERN Full Stack Web Developer from India
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Logeshk135&label=Profile views&color=0e75b6&style=flat" alt="Logeshk135" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Logeshk135" alt="Logeshk135" /></a> </p>
+
+- 🔭 I'm currently working on **I am Mens Shop Project       Link:  https://mens-shop-react-7qgw.vercel.app/
+I am only frontend project  Pizza website    Link:  https://logeshk135.github.io/pizza-webisite-forntend/**
+
+- 🌱 I'm currently learning **I am Learning backend node and mongodb**
+
+- 👯 I'm looking to collaborate on **My portfolio Link: https://portfolio-react-eight-wheat.vercel.app/**
+
+- 🤝 I'm looking for help with **All most learning frontend**
+
+- 💬 Ask me about **HTML,CSS,JS,REACT**
+
+- 📫 How to reach me **logeshk135@gmail.com**
+
+- ⚡ Fun fact **My favorite hobby? Breaking my own code.**
+
+- 👨‍💻 All of my projects are available at **[https://portfolio-react-eight-wheat.vercel.app/](https://portfolio-react-eight-wheat.vercel.app/)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1Kcmp36h2hl19raw3rX2xxK1nuRxgHG6v/view?usp=drivesdk](https://drive.google.com/file/d/1Kcmp36h2hl19raw3rX2xxK1nuRxgHG6v/view?usp=drivesdk)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Logeshk135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Logeshk135" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/logesh k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logesh k" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_local_logesh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_local_logesh__" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Logeshk135&show_icons=true&locale=en&layout=compact" alt="Logeshk135" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Logeshk135&show_icons=true&locale=en" alt="Logeshk135" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Logeshk135&" alt="Logeshk135" /></p>
+
