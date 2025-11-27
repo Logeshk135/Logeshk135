@@ -1,46 +1,110 @@
-# Hi 👋, I'm Logesh k
-
-###  A passionate and motivated MERN Full Stack Web Developer from India
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=logeshk135&label=Profile views&color=0e75b6&style=flat" alt="logeshk135" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logeshk135" alt="logeshk135" /></a> </p>
-
-- 🔭 I'm currently working on **I am Mens Shop Project       Link:  https://mens-shop-react-7qgw.vercel.app
-
-
-
-I am only frontend project  Pizza website    Link:  https://logeshk135.github.io/pizza-webisite-forntend/**
-
-- 🌱 I'm currently learning **I am Learning backend node and mongodb**
-
-- 👯 I'm looking to collaborate on **My portfolio Link: https://portfolio-react-eight-wheat.vercel.app/**
-
-- 🤝 I'm looking for help with **All most learning frontend**
-
-- 💬 Ask me about **HTML,CSS,JS,REACT**
-
-- 📫 How to reach me **logeshk135@gmail.com**
-
-- ⚡ Fun fact **My favorite hobby? Breaking my own code.**
-
-- 👨‍💻 All of my projects are available at **[https://portfolio-react-eight-wheat.vercel.app/](https://portfolio-react-eight-wheat.vercel.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Kcmp36h2hl19raw3rX2xxK1nuRxgHG6v/view?usp=drivesdk](https://drive.google.com/file/d/1Kcmp36h2hl19raw3rX2xxK1nuRxgHG6v/view?usp=drivesdk)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/logeshk135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="logeshk135" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/logeshk135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logeshk135" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_local_logesh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_local_logesh__" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="(https://static.vecteezy.com/system/resources/thumbnails/011/095/357/original/boy-cartoon-character-using-laptop-computer-new-idea-bulb-icon-4k-animation-video.jpg)" width="50%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
+<h1 align="center">Hi 👋, I'm <span style="color:#4fb0f2;">LOGESH K</span></h1>
+<h3 align="center">🚀 MERN Full Stack Web Developer | India 🇮🇳</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logeshk135&show_icons=true&locale=en&layout=compact" alt="logeshk135" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logeshk135&show_icons=true&locale=en" alt="logeshk135" /></p>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/logeshk135">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:logeshk135@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-react-eight-wheat.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4fb0f2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logeshk135&" alt="logeshk135" /></p>
+---
 
+## 👨‍💻 About Me
+I am **Logesh K**, a passionate **MERN Full Stack Developer** who loves building  
+clean, responsive and modern web applications.
+
+- 🔭 I’m currently working on **MERN Projects**
+- 🌱 Learning: **Advanced React, Node, MongoDB, Tailwind CSS**
+- 💬 Ask me about **React, JavaScript, Node.js, MongoDB, CSS, HTML**
+- ⚡ Fun Fact: *I fix one bug and create three more — talent 😎*
+
+---
+
+## 🚀 Tech Stack & Skills
+
+### 💻 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### 🛠 Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Database  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🍕 Pizza Ordering Website (HTML + CSS)
+A clean static pizza ordering UI built using **HTML & CSS only**  
+✔ Menu, Items, About, Services, Contact  
+✔ Aesthetic design & well-structured layout  
+
+---
+
+### 🛍 Men's Shop – MERN E-Commerce App  
+A full-stack men’s fashion store built with **MongoDB, Express, React, Node**  
+✔ User + Admin  
+✔ Authentication  
+✔ Product & Order Management  
+✔ Modern UI with Tailwind
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=logeshk135&show_icons=true&theme=react" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logeshk135&layout=compact&theme=react" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logeshk135&theme=react" />
+</p>
+
+---
+
+## 🔥 Developer Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🧊 Fun Fact  
+**I talk to my computer like it understands me. Sometimes… it listens. 😂**
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/IOj7Y9D.png" width="80%" />
+</p>
+
+---
+
+### ⭐ If you like my work, please give a star to my repositories!
